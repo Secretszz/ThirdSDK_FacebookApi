@@ -8,8 +8,6 @@
 // Create Time:		2024/09/03 10:51:48
 // *******************************************
 
-#if UNITY_EDITOR
-
 namespace Bridge.FacebookApi
 {
 	using Common;
@@ -81,5 +79,3 @@ namespace Bridge.FacebookApi
 		}
 	}
 }
-
-#endif
